@@ -1,4 +1,4 @@
-service vendor.hwcomposer-3 /vendor/bin/hw/hwc3.sh
+service vendor.hwcomposer-3 /vendor/bin/hw/android.hardware.composer.hwc3-service.drm.xt
     class hal animation
     interface aidl android.hardware.graphics.composer3.IComposer/default
     user system
