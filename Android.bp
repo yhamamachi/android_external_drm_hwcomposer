@@ -19,7 +19,7 @@ cc_binary {
     ],
 
     shared_libs: [
-        "android.hardware.graphics.composer3-V4-ndk",
+        "android.hardware.graphics.composer3-V5-ndk",
         "libbase",
         "libbinder",
         "libbinder_ndk",
